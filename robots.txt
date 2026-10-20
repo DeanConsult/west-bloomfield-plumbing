@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /resources/
+Disallow: /privacy-policy/
+Disallow: /thank-you/
+
+Sitemap: https://www.westbloomplumbing.com/sitemap.xml
